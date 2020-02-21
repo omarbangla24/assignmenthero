@@ -1,0 +1,198 @@
+/* Global Style */
+body{
+  font-family: 'Poppins', sans-serif ;
+  margin: 0;
+  padding: 0;
+}
+
+/* Top Banner Start */
+.top-banner{
+  margin-top: 50px;
+  padding-bottom: 190px;
+}
+.top-text{
+  margin-top: 30%;
+}
+.helo-h3{
+  font-size: 35px;
+  color: #202428;
+  font-weight: lighter;
+  line-height: 8px;
+}
+.name-h1{
+    color: #EC4C7A;
+    font-size: 70px;
+    line-height: 8px;
+    }
+.header-pera{
+  color:#707070;
+  margin-bottom: 65px;
+}
+
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient(to right, #EC5094, #ED4B72);
+  color: white;
+  padding: 20px 60px;
+  text-transform: uppercase;
+  border-radius: 5px;
+}
+
+a:hover{
+  background-image: linear-gradient(to right, #ED4B72, #EC5094);
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left:5% ;
+  padding-left: 2%;
+  }
+  
+.half-width img{
+    width: 100%;
+  }
+  
+  .top-banner{
+    background-image: url(../images/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+  }
+  
+  section{
+    height: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  
+/* Top Banner End */
+
+/* Dream Area Start   */
+  .dream-area{
+    background-image: url(../images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 190px;
+  }
+.bio-text{
+    margin-top: 30%;
+}
+  .bio-h1{
+    color: #202428;
+    font-size: 40px;
+    line-height: 40px;
+    }
+.bio-pera{
+  color:#707070;
+  margin-bottom: 65px;
+}
+/* Dream Area End */
+
+/* My Latest Work Start */
+
+.latest-work{
+  margin-top: 100px;
+  background-image: url(../images/latest-work-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-bottom: 190px;
+}
+.works{
+
+}
+
+.work-h1{
+  color: #202428;
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: 50px;
+}
+
+.works-image{
+  width: 33.33%;
+  float: left;
+}
+
+.works-image img{
+  width: 100%;
+}
+
+/* My Latest Work End */
+
+/* What Client are say Start */
+
+.clint{
+  margin-top: -80px;
+}
+
+.clint-h1{
+  color: #202428;
+  text-align: center;
+  font-size: 40px;
+}
+
+.clint-all-text{
+  text-align: center;
+}
+
+.clint-text{
+  margin-top: 80px;
+}
+.clint-name{
+color:#202428;
+font-size: 25px;
+}
+.clint-pos{
+  color:#707070;
+  font-size: 18px;
+}
+.clint-msg{
+
+}
+.clint-msg-text{
+  color: #333333;
+  font-size: 20px;
+}
+
+/* What Clint are say End */
+
+/* Contact Us Start */
+.contact-se{
+  margin-top: -100px;
+}
+
+.msg-p{
+  background-image: linear-gradient(to right, #EC5094, #ED4B72);
+  color: white;
+  margin:auto;
+  width: 55%; 
+  display: block;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 40px;
+  border-radius: 5px;
+
+}
+
+.msg-h3{
+  font-size: 25px;
+  font-weight: 100;
+  cursor: pointer;
+}
+
+/* Contact Us End */
+
+/* Footer Start */
+.footer-bg{
+  background-image: url(../images/footer-bg.png);
+}
+
+.footer-txt{
+  text-align: center;
+  color:#707070;
+}
+
+/* Footer End */
